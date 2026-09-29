@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Skills",
+    "description": "List skills under ~/.dsh/skills and toggle each one: a disabled skill becomes invisible to the model"
+  }
+}

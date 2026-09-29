@@ -1,0 +1,4 @@
+- insert:
+    - id: mcp-panel
+      name: '@local/dsh-mcp-panel'
+      config: {}

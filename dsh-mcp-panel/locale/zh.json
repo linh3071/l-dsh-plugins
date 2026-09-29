@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP 服务器",
+    "description": "列出 profile 补丁中配置的 MCP 服务器，逐个开启/关闭：关闭后模型无法获取该服务器的工具"
+  }
+}

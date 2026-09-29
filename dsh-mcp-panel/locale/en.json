@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "MCP Servers",
+    "description": "List MCP servers configured in the profile patch and toggle each one: a disabled server's tools become invisible to the model"
+  }
+}

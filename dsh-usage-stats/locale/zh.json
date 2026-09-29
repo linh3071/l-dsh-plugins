@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "用量统计",
+    "description": "日历热力图与 provider/模型 token 用量统计，数据取自会话日志中 provider 真实上报的用量"
+  }
+}

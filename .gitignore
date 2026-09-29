@@ -1,0 +1,30 @@
+# Dependencies and generated verification artifacts
+**/node_modules/
+**/verify-panel*.png
+
+# Local credentials and runtime configuration
+.env
+.env.*
+**/.credentials.yaml
+**/credentials*.yml
+**/credentials*.yaml
+**/credentials*.json
+**/cordis.patch.local.yml
+**/.npmrc
+**/*.pem
+**/*.key
+**/*.p12
+**/*.pfx
+
+# Harness runtime data
+**/sessions/
+**/.dsh/
+*.jsonl
+*.jsonl.zstd
+
+# Local editor and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

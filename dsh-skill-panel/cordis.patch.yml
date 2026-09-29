@@ -1,0 +1,4 @@
+- insert:
+    - id: skill-panel
+      name: '@local/dsh-skill-panel'
+      config: {}

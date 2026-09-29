@@ -1,0 +1,4 @@
+- insert:
+    - id: quota-dashboard
+      name: '@local/dsh-quota-dashboard'
+      config: {}
